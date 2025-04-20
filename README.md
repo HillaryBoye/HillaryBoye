@@ -26,4 +26,7 @@
 
 ## My arsenal
 - Microsoft excel
+- Power Bi
+- SQL
+- Tableau 
 
